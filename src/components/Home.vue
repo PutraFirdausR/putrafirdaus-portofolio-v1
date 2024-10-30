@@ -110,7 +110,7 @@ const handleMouseLeave = () => {
               <Typing
                 :texts="[
                   'Front-end Developer',
-                  'Sosial Media Marketing',
+                  'Social Media Marketing',
                   'Graphic Design',
                 ]"
                 :speed="100"
