@@ -156,18 +156,18 @@
         class="card bg-base-300 w-96 z-10 shadow-xl group rounded-t-lg hover:brightness-110 hover:shadow-neutral-content/50 hover:shadow-xl"
       >
         <figure class="relative">
-          <img src="/src/assets/Calculator.png" alt="Calculator-Web" />
+          <img src="/src/assets/Portofolio.png" alt="Portofolio-Web" />
           <div
             class="absolute inset-0 font-Poopins bg-base-300/80 opacity-0 group-hover:opacity-100 transition-all duration-300 flex flex-col gap-2 items-center justify-center"
           >
             <a
-              href="https://github.com/PutraFirdausR/calculator"
+              href="https://github.com/PutraFirdausR/putrafirdaus-portofolio-v1"
               target="_blank"
               class="btn btn-primary text-white rounded"
               >Visit Github Repo</a
             >
             <a
-              href="https://calculator-teal-xi.vercel.app/"
+              href="https://putrafirdaus-portofolio-v1.vercel.app/"
               target="_blank"
               class="btn btn-secondary text-white rounded"
               >Visit Website</a
@@ -176,14 +176,14 @@
         </figure>
         <div class="card-body z-10">
           <h2 class="card-title text-white font-Poppins font-medium">
-            Calculator
+            Portofolio
           </h2>
           <p class="text-[#87a5a5] font-Poppins">
-            My initial project of understanding JavaScript in building
-            interactive web application. This simple calculator is designed for
-            accepts input in the form of numbers and basic mathematical
-            operators (+, -, *, /), then displays the calculation results in
-            real-time.
+            I built an interactive web portfolio that combines dynamic animation
+            with responsive design to showcase my work and skills. This project
+            was created using Vue.js technology, Tailwind CSS to support
+            responsive and modular design, and AOS (Animate On Scroll) to
+            provide animation effects when users scroll the page.
           </p>
         </div>
       </div>
@@ -209,10 +209,11 @@
             To-Do-List
           </h2>
           <p class="text-[#87a5a5] font-Poppins">
-            This project aims to build a simple web application can help users
-            manage their daily to-do lists. Application it allows users to add
-            new tasks, Mark tasks as completed,Delete task,Storage. This project
-            is My first step in learning frontend web development.
+            I built an interactive web portfolio that combines dynamic animation
+            with responsive design to showcase my work and skills. This project
+            was created using Vue.js technology, Tailwind CSS for responsive
+            design, and AOS (Animate On Scroll) to provide animation effects
+            when users scroll the page.
           </p>
         </div>
       </div>
