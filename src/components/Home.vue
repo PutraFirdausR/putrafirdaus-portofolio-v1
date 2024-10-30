@@ -111,7 +111,7 @@ const handleMouseLeave = () => {
                 :texts="[
                   'Front-end Developer',
                   'Sosial Media Marketing',
-                  'Desain Grafis',
+                  'Graphic Design',
                 ]"
                 :speed="100"
                 :delay="2000"
