@@ -175,9 +175,7 @@
           </div>
         </figure>
         <div class="card-body z-10">
-          <h2
-            class="card-title text-white font-Poppins font-medium hover:brightness-110 hover:shadow-neutral-content/50 hover:shadow-xl"
-          >
+          <h2 class="card-title text-white font-Poppins font-medium">
             Calculator
           </h2>
           <p class="text-[#87a5a5] font-Poppins">
