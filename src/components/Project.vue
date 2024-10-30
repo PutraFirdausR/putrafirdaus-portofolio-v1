@@ -182,8 +182,7 @@
             I built an interactive web portfolio that combines dynamic animation
             with responsive design to showcase my work and skills. This project
             was created using Vue.js technology, Tailwind CSS to support
-            responsive and modular design, and AOS (Animate On Scroll) to
-            provide animation effects when users scroll the page.
+            responsive and modular design, and AOS.
           </p>
         </div>
       </div>
@@ -209,11 +208,10 @@
             To-Do-List
           </h2>
           <p class="text-[#87a5a5] font-Poppins">
-            I built an interactive web portfolio that combines dynamic animation
-            with responsive design to showcase my work and skills. This project
-            was created using Vue.js technology, Tailwind CSS for responsive
-            design, and AOS (Animate On Scroll) to provide animation effects
-            when users scroll the page.
+            This project aims to build a simple web application can help users
+            manage their daily to-do list. Application it allows users to add
+            new tasks, Mark tasks as completed, delete task,storage.This project
+            is my first step in learning Front-End web development
           </p>
         </div>
       </div>
