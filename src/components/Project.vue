@@ -189,12 +189,12 @@
       </div>
       <div
         data-aos="fade-up"
-        class="card bg-base-300 z-10 w-96 shadow-xl group rounded-t-lg hover:brightness-110 hover:shadow-neutral-content/50 hover:shadow-xl"
+        class="card bg-base-300 w-96 z-10 shadow-xl group rounded-t-lg hover:brightness-110 hover:shadow-neutral-content/50 hover:shadow-xl"
       >
         <figure class="relative">
           <img src="/src/assets/ToDoList.png" alt="To-Do-List" />
           <div
-            class="absolute inset-0font-Poopins bg-base-300/80 opacity-0 group-hover:opacity-100 transition-all duration-300 flex flex-col gap-2 items-center justify-center"
+            class="absolute inset-0 font-Poopins bg-base-300/80 opacity-0 group-hover:opacity-100 transition-all duration-300 flex flex-col gap-2 items-center justify-center"
           >
             <a
               href="https://github.com/PutraFirdausR/to-do-list"
