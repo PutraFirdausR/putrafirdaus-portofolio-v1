@@ -102,7 +102,7 @@ const handleMouseLeave = () => {
               :style="{
                 transform: `translate(${foregroundX}px, ${foregroundY}px)`,
               }"
-              class="scramble-container font-Lora z-10 lg:text-9xl text-5xl font-bold tracking-wide"
+              class="scramble-container font-Lora z-10 lg:text-9xl text-6xl font-bold tracking-wide"
               ref="nameEl"
             ></div>
 
