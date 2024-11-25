@@ -58,7 +58,7 @@
         >WPU</a
       >
       <a
-        href="https://www.youtube.com/@sandhikagalihWPU"
+        href="https://stackoverflow.com/"
         target="_blank"
         class="text-[#87a5a5] z-10 hover:text-base-content hover:translate-x-2 ease-in duration-200 text-base"
         >Stackoverflow</a

@@ -115,6 +115,7 @@
           <div class="card-actions justify-end pb-2">
             <div class="badge badge-outline">HTML</div>
             <div class="badge badge-outline">CSS</div>
+            <div class="badge badge-outline">JavaScript</div>
           </div>
           <div class="flex flex-col gap-2">
             <a
@@ -182,7 +183,7 @@
             responsive and modular design, and AOS.
           </p>
           <div class="card-actions justify-end pb-2">
-            <div class="badge badge-outline">Vuejs</div>
+            <div class="badge badge-outline">Vue</div>
             <div class="badge badge-outline">Tailwind</div>
             <div class="badge badge-outline">Daisy UI</div>
             <div class="badge badge-outline">AOS</div>
@@ -231,6 +232,45 @@
               target="_blank"
               class="btn btn-primary text-white rounded"
               >Visit Github Repo</a
+            >
+          </div>
+        </div>
+      </div>
+
+      <div
+        data-aos="fade-up"
+        class="card bg-base-300 w-96 z-10 shadow-xl group rounded-t-lg hover:shadow-neutral-content/50 hover:shadow-xl"
+      >
+        <figure class="relative">
+          <img src="/src/assets/omabling.png" alt="Omabling" />
+        </figure>
+        <div class="card-body z-10">
+          <h2 class="card-title text-white font-Poppins font-medium">
+            Omabling
+          </h2>
+          <p class="text-[#87a5a5] font-Poppins">
+            Website ini adalah hasil karya pertama saya sebagai seorang
+            freelancer, dikembangkan menggunakan Vue.js untuk membangun
+            antarmuka pengguna yang dinamis dan interaktif.Tailwind CSS dan
+            Daisy UI
+          </p>
+          <div class="card-actions justify-end pb-2">
+            <div class="badge badge-outline">Vue</div>
+            <div class="badge badge-outline">Tailwind</div>
+            <div class="badge badge-outline">Daisy UI</div>
+          </div>
+          <div class="flex flex-col gap-2">
+            <a
+              href="https://github.com/PutraFirdausR/omabling"
+              target="_blank"
+              class="btn btn-primary text-white rounded"
+              >Visit Github Repo</a
+            >
+            <a
+              href="https://omabling.vercel.app/"
+              target="_blank"
+              class="btn btn-secondary text-white rounded"
+              >Visit Website</a
             >
           </div>
         </div>
