@@ -1,3 +1,4 @@
+![Vue.js Logo]([https://vuejs.org/images/logo.png](https://www.stickpng.com/id/img/agama/ikon-logo-emoji/perusahaan-teknologi/lanskap-logo-vuejs))
 # Portofolio Web Versi 1
 
 Deskripsi singkat tentang proyek ini.
