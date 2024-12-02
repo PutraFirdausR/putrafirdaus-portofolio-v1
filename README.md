@@ -1,5 +1,4 @@
-
-# Portofolio Web Versi 1
+# <div align="center"> <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="150"> </div> Portofolio Web Versi 1
 
 Deskripsi singkat tentang proyek ini.
 
