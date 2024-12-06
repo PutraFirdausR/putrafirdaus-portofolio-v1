@@ -127,11 +127,22 @@
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
           <i
+            class="fa-brands fa-sass text-[3rem] px-5"
+            style="color: #bf4080"
+          ></i>
+        </div>
+      </div>
+      <div data-aos="fade-up" class="group z-10">
+        <div
+          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
+        >
+          <i
             class="fa-brands fa-npm text-[3rem] px-5"
             style="color: #ff0000"
           ></i>
         </div>
       </div>
+
       <div data-aos="fade-up" class="group z-10">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
