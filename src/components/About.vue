@@ -137,12 +137,32 @@
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
           <i
+            class="fa-brands fa-github text-[3rem] px-5"
+            style="color: #ffff"
+          ></i>
+        </div>
+      </div>
+      <div data-aos="fade-up" class="group z-10">
+        <div
+          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
+        >
+          <i
             class="fa-brands fa-npm text-[3rem] px-5"
             style="color: #ff0000"
           ></i>
         </div>
       </div>
-
+      <div data-aos="fade-up" class="group z-10">
+        <div
+          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
+        >
+          <img
+            src="/src/assets/vscode.png"
+            class="w-[87px] px-5"
+            alt="Vscode"
+          />
+        </div>
+      </div>
       <div data-aos="fade-up" class="group z-10">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
