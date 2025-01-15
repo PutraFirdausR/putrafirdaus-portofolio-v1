@@ -185,6 +185,17 @@
           />
         </div>
       </div>
+      <div data-aos="fade-up" class="group z-10">
+        <div
+          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
+        >
+          <img
+            src="/src/assets/corel.png"
+            class="w-[87px] px-5"
+            alt="Corel Draw"
+          />
+        </div>
+      </div>
     </div>
   </div>
 </template>

@@ -251,7 +251,7 @@
           <p class="text-[#87a5a5] font-Poppins">
             This website is my first work as a person freelancer, developed
             using Vue.js to build dynamic and interactive user
-            interface.Tailwind CSS and Daisy UI
+            interface.Tailwind CSS and Daisy UI++
           </p>
           <div class="card-actions justify-end pb-2">
             <div class="badge badge-outline">Vue</div>
