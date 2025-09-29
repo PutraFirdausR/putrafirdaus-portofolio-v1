@@ -192,7 +192,7 @@
         >
           <img
             src="/src/assets/Figma-logo.svg.png"
-            class="w-[87px] px-7"
+            class="w-[72px] px-5"
             alt="Vscode"
           />
         </div>
