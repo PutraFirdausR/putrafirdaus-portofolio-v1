@@ -115,6 +115,7 @@ const scrollToSection = (sectionId) => {
                   >Project</a
                 >
               </li>
+
               <li class="group">
                 <a
                   href="#contact"
@@ -147,6 +148,7 @@ const scrollToSection = (sectionId) => {
     <section id="project">
       <Project />
     </section>
+
     <section id="contact">
       <Contact />
     </section>
