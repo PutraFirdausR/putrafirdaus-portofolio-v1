@@ -19,7 +19,7 @@
               data-aos="fade-right"
               class="rounded-full transition-all duration-300 hover:scale-105 filter hover:brightness-110 shadow-lg hover:shadow-neutral-content/50 hover:shadow-xl"
               src="/src/assets/profile.png"
-              alt=""
+              alt="Profile"
             />
           </div>
         </div>
