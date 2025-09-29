@@ -1,7 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
-  purge: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
-  content: [],
+  content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     container: {
       center: true,
@@ -15,7 +14,6 @@ export default {
       screens: {
         "2xl": "1320px",
       },
-
       keyframes: {
         typing: {
           from: {
