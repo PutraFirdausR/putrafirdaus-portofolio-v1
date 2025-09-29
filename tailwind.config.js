@@ -28,7 +28,16 @@ export default {
       },
     },
   },
-  plugins: [require("daisyui")],
+  plugins: [
+    require("daisyui"),
+    function ({ addBase, theme }) {
+      addBase({
+        'body': {
+          'overflow-x': 'hidden',
+        },
+      });
+    },
+  ],
   daisyui: {
     themes: ["black", "winter"],
   },

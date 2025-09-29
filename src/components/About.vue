@@ -1,6 +1,6 @@
 <template>
-  <div class="container">
-    <main class="neutral-content bg-base-300 rounded-xl p-5 lg:flex">
+  <div class="container mx-auto">
+    <main class="neutral-content bg-base-300 rounded-xl p-5 lg:flex overflow-x-hidden">
       <div class="flex flex-col justify-between">
         <h1
           data-aos="fade-up"
@@ -14,7 +14,7 @@
           </div>
         </h1>
         <div class="flex justify-center items-center z-10">
-          <div class="w-52 lg:w-80 py-3 lg:py-5 lg:px-10">
+          <div class="max-w-full px-5 lg:w-80 py-3 lg:py-5 lg:px-10">
             <img
               data-aos="fade-right"
               class="rounded-full transition-all duration-300 hover:scale-105 filter hover:brightness-110 shadow-lg hover:shadow-neutral-content/50 hover:shadow-xl"
@@ -27,7 +27,7 @@
 
       <div
         data-aos="fade-left"
-        class="flex font-Poppins justify-center flex-col cursor-default "
+        class="flex font-Poppins justify-center flex-col cursor-default"
       >
         <h2 class="text-justify text-sm text-white z-10">
           <div
@@ -66,22 +66,22 @@
       <h1 class="font-Poppins text-xl font-medium text-white">Skills</h1>
     </div>
 
-    <div class="flex font-Poppins gap-7 flex-wrap justify-center ">
-      <div data-aos="fade-up" class="group z-10">
+    <div class="flex font-Poppins flex-wrap justify-center ">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
           <i class="fa-brands fa-html5 text-[3rem] px-5 text-[#ff0000]"></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
           <i class="fa-brands fa-css3-alt text-[3rem] px-5 text-[#3700ff]"></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -91,7 +91,7 @@
           ></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -102,7 +102,7 @@
           />
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -112,7 +112,7 @@
           ></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -122,7 +122,7 @@
           ></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -132,7 +132,7 @@
           ></i>
         </div>
       </div>
- <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -143,20 +143,7 @@
           />
         </div>
       </div>
-
-
-      <div data-aos="fade-up" class="group z-10">
-        <div
-          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
-        >
-          <img
-            src="/src/assets/Figma-logo.svg.png"
-            class="w-[72px] px-5"
-            alt="Vscode"
-          />
-        </div>
-      </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -166,7 +153,7 @@
           ></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -176,7 +163,7 @@
           ></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -188,7 +175,7 @@
         </div>
       </div>
       
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -199,8 +186,18 @@
           />
         </div>
       </div>
-
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
+        <div
+          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
+        >
+          <img
+            src="/src/assets/Figma-logo.svg.png"
+            class="w-[72px] px-5"
+            alt="Vscode"
+          />
+        </div>
+      </div>
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
@@ -211,7 +208,7 @@
           />
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
+      <div data-aos="fade-up" class="group z-10 mx-2 my-2">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
         >
