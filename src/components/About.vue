@@ -27,7 +27,7 @@
 
       <div
         data-aos="fade-left"
-        class="flex font-Poppins justify-center flex-col cursor-default"
+        class="flex font-Poppins justify-center flex-col cursor-default "
       >
         <h2 class="text-justify text-sm text-white z-10">
           <div
@@ -66,7 +66,7 @@
       <h1 class="font-Poppins text-xl font-medium text-white">Skills</h1>
     </div>
 
-    <div class="flex font-Poppins gap-7 flex-wrap justify-center">
+    <div class="flex font-Poppins gap-7 flex-wrap justify-center ">
       <div data-aos="fade-up" class="group z-10">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
@@ -132,17 +132,7 @@
           ></i>
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
-        <div
-          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
-        >
-          <img
-            src="/src/assets/python-svgrepo-com.svg"
-            class="w-[87px] px-5"
-            alt="Python"
-          />
-        </div>
-      </div>
+ 
       <div data-aos="fade-up" class="group z-10">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
@@ -186,17 +176,7 @@
           />
         </div>
       </div>
-      <div data-aos="fade-up" class="group z-10">
-        <div
-          class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
-        >
-          <img
-            src="/src/assets/Figma-logo.svg.png"
-            class="w-[72px] px-5"
-            alt="Vscode"
-          />
-        </div>
-      </div>
+
       <div data-aos="fade-up" class="group z-10">
         <div
           class="flex items-center py-1 outline outline-2 rounded group-hover:bg-neutral-content group-hover:ease-in duration-200"
