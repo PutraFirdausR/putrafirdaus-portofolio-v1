@@ -59,6 +59,7 @@
       </div>
     </main>
 
+    <!-- Skill Section -->
     <div data-aos="fade-up" class="my-2 p-5 flex items-center cursor-default">
       <div class="h-1 w-20 pr-2">
         <div class="h-1 bg-primary-content animate-line"></div>
@@ -193,7 +194,7 @@
           <img
             src="/src/assets/Figma-logo.svg.png"
             class="w-[72px] px-5"
-            alt="Vscode"
+            alt="Figma"
           />
         </div>
       </div>
@@ -219,6 +220,185 @@
           />
         </div>
       </div>
+    </div>
+
+    <!-- Sertifikat Section -->
+    <div data-aos="fade-up" class="my-10 p-5 flex items-center cursor-default">
+      <div class="h-1 w-20 pr-2">
+        <div class="h-1 bg-primary-content animate-line"></div>
+      </div>
+      <h1 class="font-Poppins text-xl font-medium text-white">Certificate</h1>
+    </div>
+
+   
+    <div class="flex items-center flex-wrap justify-center font-Poppins">
+       <!-- Sertifikat 1 -->
+    <div
+    data-aos="fade-up" class="group relative z-10 mx-2 my-4 bg-base-200 rounded-xl p-4 shadow-md hover:shadow-neutral-content/50 transition-all duration-300 hover:scale-105">
+   <a
+    href="https://storage.googleapis.com/myskill-v2-certificates/topic-ZIWNpsfNZkE1B2rWr69H/fZpJp5JC9WWsmeybN4pNHO1bOQf2-dQ5VGAYi73bfAmIQLd4a.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="block relative"
+  >
+    <div class="overflow-hidden rounded-lg relative">
+      <img
+        src="/src/assets/Sertifikat1.png"
+        alt="Sertifikat 2"
+        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+      />
+
+      <div
+        class="absolute inset-0 flex items-center justify-center bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+      >
+        <span class="text-white text-base font-semibold tracking-wide">
+          Show Credential
+        </span>
+      </div>
+    </div>
+
+    <h2 class="text-white text-center mt-3 font-semibold text-lg">
+      MySkill - VueJs
+    </h2>
+   </a>
+   </div>
+
+   <!-- Sertifikat 2 -->
+<div
+  data-aos="fade-up"
+  class="group relative z-10 mx-2 my-4 bg-base-200 rounded-xl p-4 shadow-md hover:shadow-neutral-content/50 transition-all duration-300 hover:scale-105"
+>
+  <a
+    href="https://storage.googleapis.com/myskill-v2-certificates/topic-pTLX6J38RGSQ4dfEO6yQ/fZpJp5JC9WWsmeybN4pNHO1bOQf2-87s8vOHDPQbIr4JjiD7Q.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="block relative"
+  >
+    <div class="overflow-hidden rounded-lg relative">
+      <img
+        src="/src/assets/Sertifikat2.png"
+        alt="Sertifikat 2"
+        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+      />
+
+  
+      <div
+        class="absolute inset-0 flex items-center justify-center bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+      >
+        <span class="text-white text-base font-semibold tracking-wide">
+          Show Credential
+        </span>
+      </div>
+    </div>
+
+    <h2 class="text-white text-center mt-3 font-semibold text-lg">
+      MySkill - JavaScript
+    </h2>
+  </a>
+</div>
+
+<!-- Sertifikat 3 -->
+<div
+  data-aos="fade-up"
+  class="group relative z-10 mx-2 my-4 bg-base-200 rounded-xl p-4 shadow-md hover:shadow-neutral-content/50 transition-all duration-300 hover:scale-105"
+>
+  <a
+    href="https://storage.googleapis.com/myskill-v2-certificates/course-GeueYoOAoIi58XZ0MWA9/fZpJp5JC9WWsmeybN4pNHO1bOQf2-W2IiY0dRHD3zkJCgX85X.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="block relative"
+  >
+    <div class="overflow-hidden rounded-lg relative">
+      <img
+        src="/src/assets/Sertifikat5.png"
+        alt="Sertifikat 2"
+        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+      />
+
+  
+      <div
+        class="absolute inset-0 flex items-center justify-center bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+      >
+        <span class="text-white text-base font-semibold tracking-wide">
+          Show Credential
+        </span>
+      </div>
+    </div>
+
+    <h2 class="text-white text-center mt-3 font-semibold text-lg">
+      MySkill - CSS
+    </h2>
+  </a>
+</div>
+
+<!-- Sertifikat 4 -->
+<div
+  data-aos="fade-up"
+  class="group relative z-10 mx-2 my-4 bg-base-200 rounded-xl p-4 shadow-md hover:shadow-neutral-content/50 transition-all duration-300 hover:scale-105"
+>
+  <a
+    href="https://www.codepolitan.com/c/KV9LAKW/"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="block relative"
+  >
+    <div class="overflow-hidden rounded-lg relative">
+      <img
+        src="/src/assets/Sertifkat4.png"
+        alt="Sertifikat 2"
+        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+      />
+
+  
+      <div
+        class="absolute inset-0 flex items-center justify-center bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+      >
+        <span class="text-white text-base font-semibold tracking-wide">
+          Show Credential
+        </span>
+      </div>
+    </div>
+
+    <h2 class="text-white text-center mt-3 font-semibold text-lg">
+      Codepolitan - HTML and CSS
+    </h2>
+  </a>
+</div>
+
+<!-- Sertifikat 5 -->
+<div
+  data-aos="fade-up"
+  class="group relative z-10 mx-2 my-4 bg-base-200 rounded-xl p-4 shadow-md hover:shadow-neutral-content/50 transition-all duration-300 hover:scale-105"
+>
+  <a
+    href="https://www.codepolitan.com/c/C5ZBULI/"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="block relative"
+  >
+    <div class="overflow-hidden rounded-lg relative">
+      <img
+        src="/src/assets/Sertifikat3.png"
+        alt="Sertifikat 2"
+        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+      />
+
+  
+      <div
+        class="absolute inset-0 flex items-center justify-center bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
+      >
+        <span class="text-white text-base font-semibold tracking-wide">
+          Show Credential
+        </span>
+      </div>
+    </div>
+
+    <h2 class="text-white text-center mt-3 font-semibold text-lg">
+      Codepolitan - JavaScript
+    </h2>
+  </a>
+</div>
+
     </div>
   </div>
 </template>
