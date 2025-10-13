@@ -230,7 +230,6 @@
       <h1 class="font-Poppins text-xl font-medium text-white">Certificate</h1>
     </div>
 
-   
     <div class="flex items-center flex-wrap justify-center font-Poppins">
        <!-- Sertifikat 1 -->
     <div
@@ -245,7 +244,7 @@
       <img
         src="/src/assets/Sertifikat1.png"
         alt="Sertifikat 2"
-        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+       class="rounded-lg w-full max-w-[400px] h-auto object-contain transition-transform duration-300 group-hover:scale-105"
       />
 
       <div
@@ -278,7 +277,7 @@
       <img
         src="/src/assets/Sertifikat2.png"
         alt="Sertifikat 2"
-        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+        class="rounded-lg w-full max-w-[400px] h-auto object-contain transition-transform duration-300 group-hover:scale-105"
       />
 
   
@@ -312,7 +311,7 @@
       <img
         src="/src/assets/Sertifikat5.png"
         alt="Sertifikat 2"
-        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+       class="rounded-lg w-full max-w-[400px] h-auto object-contain transition-transform duration-300 group-hover:scale-105"
       />
 
   
@@ -346,7 +345,7 @@
       <img
         src="/src/assets/Sertifkat4.png"
         alt="Sertifikat 2"
-        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+        class="rounded-lg w-full max-w-[400px] h-auto object-contain transition-transform duration-300 group-hover:scale-105"
       />
 
   
@@ -380,7 +379,7 @@
       <img
         src="/src/assets/Sertifikat3.png"
         alt="Sertifikat 2"
-        class="rounded-lg w-[400px] h-[238px] object-cover transition-transform duration-300 group-hover:scale-110"
+       class="rounded-lg w-full max-w-[400px] h-auto object-contain transition-transform duration-300 group-hover:scale-105"
       />
 
   
