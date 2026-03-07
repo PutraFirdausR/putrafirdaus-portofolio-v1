@@ -1,70 +1,59 @@
-# <div align="center"> <img src="https://vuejs.org/images/logo.png" alt="Vue.js Logo" width="150"> </div> Portofolio Web Versi 1
+<h1 align="center">
+  🏡 Firdaus Residence
+</h1>
 
-Deskripsi singkat tentang proyek ini.
+<p align="center">
+  <strong>Platform Jual Beli Properti & Villa Eksklusif</strong><br>
+  <a href="https://firdaus-residence.vercel.app">Lihat Demo Live</a>
+</p>
 
-## 🎯 Fitur Utama
-- Fitur 1: Terdapat Animasi bubble pada background.
-- Fitur 2: Animasi teks move pada header.
-- Fitur 3: Animasi Typing Teks.
-- Fitur 4: About Me and Skills.
-- Fitur 5: My Projects.
-- Fitur 6: Contact.
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
-## 📦 Teknologi yang Digunakan
-- [Vue.js](https://vuejs.org) - Framework JavaScript untuk antarmuka pengguna.
-- [Tailwind](https://tailwindcss.com/) - Kerangka kerja CSS yang mengutamakan utilitas.
-- [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll Library.
-- [DaisyUI](https://daisyui.com/) - Komponen berbasi Tailwindcss
+---
 
-## 🚀 Memulai Proyek
+## 📖 Tentang Proyek
 
-Ikuti langkah-langkah di bawah ini untuk menjalankan proyek secara lokal.
+**Firdaus Residence** adalah *website frontend* yang dirancang untuk kebutuhan bisnis properti dan vila. Website ini memberikan pengalaman menelusuri katalog properti yang mulus dengan animasi modern yang memanjakan mata, membuat calon pembeli dapat mengeksplorasi setiap detail rumah tangga atau vila impian mereka secara interaktif.
 
-### Prasyarat
-Pastikan Anda telah menginstal:
-- [Node.js](https://nodejs.org) versi >= 14.x
-- [npm](https://www.npmjs.com/) atau [Yarn](https://yarnpkg.com/)
+## 🌟 Fitur Halaman
 
-### Langkah-langkah Instalasi
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/nama-proyek.git
-   cd nama-proyek
-   ```
+Website ini terdiri dari beberapa halaman utama yang terintegrasi:
 
-2. Instal dependensi:
-   ```bash
-   npm install
-   # atau jika menggunakan Yarn
-   yarn install
-   ```
+- 🏠 **Homepage:** Halaman depan dengan *hero section* dan ringkasan properti unggulan.
+- 🏢 **Tipe Rumah (Product List):** Katalog daftar properti dan vila yang tersedia untuk dijual/disewa.
+- 🔍 **Detail Rumah (Product Detail):** Informasi lengkap mengenai fasilitas, harga, dan galeri sebuah properti.
+- 📰 **Blog:** Artikel, tips & trik seputar desain interior dan investasi properti.
+- 📝 **Detail Blog:** Halaman khusus untuk membaca artikel secara penuh.
+- ℹ️ **Tentang Kami (About):** Informasi mengenai perusahaan / agen properti Firdaus Residence.
+- 📞 **Kontak (Contact):** Formulir dan informasi kontak yang dapat dihubungi.
 
-3. Jalankan proyek:
-   ```bash
-   npm run serve
-   # atau jika menggunakan Yarn
-   yarn serve
-   ```
+## 🛠️ Stack Teknologi
 
-4. Buka browser dan akses:
-   ```
-   http://localhost:8080
-   ```
+Untuk menciptakan UI/UX yang dinamis dan responsif, proyek ini menggunakan perpaduan dari:
+* **Struktur & Gaya Utama:** HTML5 & CSS3
+* **Interaktivitas:** Vanilla JavaScript
+* **CSS Framework:** Bootstrap (Memastikan desain responsif)
+* **Animasi:** * [GSAP](https://greensock.com/gsap/) (Animasi tingkat lanjut)
+  * [AOS](https://michalsnik.github.io/aos/) (Animasi *scroll-reveal*)
 
 ## 📂 Struktur Direktori
-```plaintext
-src/
-├── assets/         # File statis seperti gambar atau font
-├── components/     # Komponen Vue
-├── App.vue         # Komponen root
-└── main.js         # Entry point aplikasi
-```
 
-## 🛠️ Skrip yang Tersedia
-Berikut adalah beberapa skrip npm yang dapat digunakan:
-- `npm run serve`: Menjalankan server pengembangan.
-- `npm run build`: Membuat build produksi.
-- `npm run lint`: Memeriksa kesalahan sintaksis kode.
-
-## 📄 Lisensi
-Proyek ini dilisensikan di bawah lisensi [MIT](LICENSE).
+```text
+📦 firdaus-residence
+ ┣ 📂 content/       # Berisi aset konten spesifik
+ ┣ 📂 css/           # File stylesheet & styling kustom
+ ┣ 📂 img/           # Gambar aset (properti, banner, dll)
+ ┣ 📂 js/            # Logika script & konfigurasi animasi
+ ┣ 📜 index.html           # Halaman Utama
+ ┣ 📜 tipe_rumah.html      # Katalog Properti
+ ┣ 📜 detail_rumah.html    # Detail Spesifik Properti
+ ┣ 📜 blog.html            # Daftar Artikel
+ ┣ 📜 detail_blog.html     # Baca Artikel
+ ┣ 📜 tentang.html         # Profil Perusahaan
+ ┗ 📜 kontak.html          # Halaman Hubungi Kami
